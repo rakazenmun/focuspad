@@ -1,0 +1,11 @@
+Quantity,Component,Part,Notes,Source
+1,Microcontroller,Seeed Studio XIAO RP2040,Required Hackpad controller,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+6,Switch,MX-compatible mechanical switch,Through-hole,https://hackpad.hackclub.com/parts
+6,Keycap,1U MX-compatible keycap,DSA or similar,https://hackpad.hackclub.com/parts
+6,Diode,1N4148 DO-35,Through-hole matrix diode,https://hackpad.hackclub.com/parts
+1,Encoder,EC11 rotary encoder with switch,Vertical 20 mm footprint,https://hackpad.hackclub.com/parts
+1,Display,0.91 inch 128x32 SSD1306 OLED,GND-VCC-SCL-SDA pin order,https://hackpad.hackclub.com/parts
+4,Screw,M3x16 socket-head screw,Case fastener,https://hackpad.hackclub.com/parts
+4,Insert,M3x5x4 heat-set insert,4.7 mm printed pocket,https://hackpad.hackclub.com/parts
+1,PCB,Focuspad two-layer PCB,97x68 mm,production/gerbers.zip
+1,Case,3D-printed PLA enclosure,Top and bottom STLs,production/Focuspad_Top.stl
