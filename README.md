@@ -39,7 +39,7 @@ is available at `production/main.py`.
 
 ## Repository structure
 
-- `CAD/` — complete STEP assembly and parametric CadQuery source
+- `CAD/` — complete STEP assembly
 - `PCB/` — KiCad project, schematic, PCB, DRC, and ERC reports
 - `Firmware/` — KMK source and installation notes
 - `production/` — Gerbers, printable case parts, and firmware
